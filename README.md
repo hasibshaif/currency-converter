@@ -19,13 +19,13 @@ Currency Converter is a simple Python program with a graphical user interface (G
 
 ### Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/currency-converter.git`
+1. Clone the repository: `git clone https://github.com/hasibshaif/currency-converter.git`
 2. Navigate to the project directory: `cd currency-converter`
-3. Run the program: `python currency_converter.py`
+3. Run the program: `python converter.py`
 
 ### Updating Exchange Rates
 
-Please be aware that the exchange rates fetched by the program might not be up-to-date in real-time. To manually update the library and potentially get the latest rates:
+Please be aware that the exchange rates fetched by the program might not be up-to-date in real time. To manually update the library and potentially get the latest rates:
 
 ```bash
 pip install --upgrade forex-python
